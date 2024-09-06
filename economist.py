@@ -10,7 +10,7 @@ import pathlib
 import subprocess
 
 
-class EconomistScraper:
+class EconomistEpubCreator:
     EDITIONS_PATH = "./editions"
 
     def __init__(self, cookie: str):
