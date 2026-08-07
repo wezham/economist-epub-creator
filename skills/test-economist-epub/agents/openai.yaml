@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Economist EPUB"
+  short_description: "Test authenticated Economist EPUB generation"
+  default_prompt: "Use $test-economist-epub to test the Economist EPUB generator end to end."
